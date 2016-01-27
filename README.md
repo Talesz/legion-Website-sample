@@ -37,6 +37,6 @@ Admin part is on dev !
 
 <a href="http://www.hostingpics.net/viewer.php?id=636060legion8.png" target="_blank"><img src="http://img15.hostingpics.net/thumbs/mini_636060legion8.png" alt="Heberger image" /></a>
 
-9/ Characters Tools of the website :
+9/ Language change to french of the website :
 
 <a href="http://www.hostingpics.net/viewer.php?id=329088legion9.png" target="_blank"><img src="http://img15.hostingpics.net/thumbs/mini_329088legion9.png" alt="Heberger image" /></a>
