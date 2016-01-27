@@ -33,7 +33,10 @@ Admin part is on dev !
 
 <a href="http://www.hostingpics.net/viewer.php?id=985528legion7.png" target="_blank"><img src="http://img15.hostingpics.net/thumbs/mini_985528legion7.png" alt="Heberger image" /></a>
 
-7/ Characters Tools of the website :
+8/ Characters Tools of the website :
 
-<a href="http://www.hostingpics.net/viewer.php?id=636060legion8.png"><img src="http://img15.hostingpics.net/thumbs/mini_636060legion8.png" alt="Heberger image" /></a>
+<a href="http://www.hostingpics.net/viewer.php?id=636060legion8.png" target="_blank"><img src="http://img15.hostingpics.net/thumbs/mini_636060legion8.png" alt="Heberger image" /></a>
 
+9/ Characters Tools of the website :
+
+<a href="http://www.hostingpics.net/viewer.php?id=329088legion9.png" target="_blank"><img src="http://img15.hostingpics.net/thumbs/mini_329088legion9.png" alt="Heberger image" /></a>
