@@ -40,3 +40,7 @@ Admin part is on dev !
 9/ Language change to french of the website :
 
 <a href="http://www.hostingpics.net/viewer.php?id=329088legion9.png" target="_blank"><img src="http://img15.hostingpics.net/thumbs/mini_329088legion9.png" alt="Heberger image" /></a>
+
+10/ New header disign of the website :
+
+<a href="http://www.hostingpics.net/viewer.php?id=819296newheader.png"><img src="http://img15.hostingpics.net/thumbs/mini_819296newheader.png" alt="Heberger image" /></a>
