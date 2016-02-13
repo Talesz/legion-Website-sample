@@ -44,3 +44,8 @@ Admin part is on dev !
 10/ New header disign of the website :
 
 <a href="http://www.hostingpics.net/viewer.php?id=819296newheader.png" target="_blank"><img src="http://img15.hostingpics.net/thumbs/mini_819296newheader.png" alt="Heberger image" /></a>
+
+
+10/ Admin panel of the website :
+
+<a href="http://www.hostingpics.net/viewer.php?id=252315adminimg.png" target="_blank"><img src="http://img11.hostingpics.net/thumbs/mini_252315adminimg.png" alt="Heberger image" /></a>
